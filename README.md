@@ -21,13 +21,7 @@ The ranking pipeline consists of:
 
 ### Final Score
 
-Final Score =
-
-0.50 × Skill Score
-
-+ 0.30 × Title Score
-
-+ 0.20 × Experience Score
+Final Score = 0.50 × Skill Score + 0.30 × Title Score + 0.20 × Experience Score
 
 ## Tech Stack
 
@@ -46,10 +40,3 @@ Final Score =
 ## Output
 
 A validated CSV file containing the Top 100 ranked candidates.
-
-## Repository Structure
-
-├── AIndia.csv
-├── AIndia_Redrob_Hackathon.ipynb
-├── README.md
-└── submission_metadata.yaml
