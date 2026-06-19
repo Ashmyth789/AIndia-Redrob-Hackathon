@@ -3,27 +3,27 @@ Project title: Intelligent Candidate Discovery
 
 Challenge: Redrob Data & AI Challenge
 
-problem_statement: 
+Problem_statement: 
   Build an AI-powered ranking engine that recommends the most suitable
   candidates for a Senior AI Engineer role from 100,000 candidate profiles.
 
-approach:
+Approach:
   - Skill Matching
   - Title Relevance Scoring
   - Experience Scoring
   - Weighted Final Ranking
 
-tech_stack:
+Tech_stack:
   - Python
   - Pandas
   - JSON
   - Google Colab
 
-dataset:
+Dataset:
   - candidates.jsonl
   - candidate_schema.json
   - job_description.docx
   - sample_submission.csv
 
-output:
+Output:
   - AIndia.csv
