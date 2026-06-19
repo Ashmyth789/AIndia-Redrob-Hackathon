@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0060072,1,1.0,Staff Machine Learning Engineer with 5.7 yrs; skill score 83; strong AI profile
+CAND_0018499,2,0.855019,Senior Machine Learning Engineer with 7.2 yrs; skill score 77; strong AI profile
+CAND_0002025,3,0.851301,Senior AI Engineer with 5.9 yrs; skill score 72; strong AI profile
+CAND_0086022,4,0.776952,Senior Applied Scientist with 5.3 yrs; skill score 74; strong AI profile
+CAND_0088025,5,0.628253,Staff Machine Learning Engineer with 8.6 yrs; skill score 63; strong AI profile
+CAND_0041611,6,0.609665,Staff Machine Learning Engineer with 6.4 yrs; skill score 62; strong AI profile
+CAND_0040200,7,0.587361,AI Research Engineer with 5.5 yrs; skill score 65; strong AI profile
+CAND_0071974,8,0.535316,Senior AI Engineer with 7.8 yrs; skill score 55; strong AI profile
+CAND_0005260,9,0.513011,Senior NLP Engineer with 5.2 yrs; skill score 67; strong AI profile
+CAND_0081846,10,0.498141,Lead AI Engineer with 6.7 yrs; skill score 56; strong AI profile
+CAND_0030031,11,0.423792,AI Engineer with 5.7 yrs; skill score 61; strong AI profile
+CAND_0045250,12,0.423792,Applied ML Engineer with 6.6 yrs; skill score 58; strong AI profile
+CAND_0007052,13,0.408922,ML Engineer with 6.5 yrs; skill score 59; strong AI profile
+CAND_0029367,14,0.408922,Senior Data Scientist with 5.7 yrs; skill score 65; strong AI profile
+CAND_0042029,15,0.408922,Senior Data Scientist with 6.5 yrs; skill score 65; strong AI profile
+CAND_0032515,16,0.386617,Machine Learning Engineer with 5.1 yrs; skill score 56; strong AI profile
+CAND_0015578,17,0.349442,AI Engineer with 5.4 yrs; skill score 57; strong AI profile
+CAND_0074735,18,0.330855,Applied ML Engineer with 5.5 yrs; skill score 53; strong AI profile
+CAND_0096142,19,0.330855,Applied ML Engineer with 5.0 yrs; skill score 53; strong AI profile
+CAND_0016170,20,0.327138,AI Research Engineer with 6.8 yrs; skill score 51; strong AI profile
+CAND_0007411,21,0.315985,Senior Machine Learning Engineer with 8.0 yrs; skill score 48; strong AI profile
+CAND_0020494,22,0.30855,AI Research Engineer with 5.9 yrs; skill score 50; strong AI profile
+CAND_0008978,23,0.27881,Junior ML Engineer with 6.7 yrs; skill score 52; strong AI profile
+CAND_0046353,24,0.27881,ML Engineer with 6.4 yrs; skill score 52; strong AI profile
+CAND_0074326,25,0.27881,Junior ML Engineer with 6.4 yrs; skill score 52; strong AI profile
+CAND_0016163,26,0.275093,Applied ML Engineer with 6.7 yrs; skill score 50; strong AI profile
+CAND_0049538,27,0.275093,Applied ML Engineer with 5.8 yrs; skill score 50; strong AI profile
+CAND_0094759,28,0.275093,Lead AI Engineer with 8.6 yrs; skill score 44; strong AI profile
+CAND_0078508,29,0.271375,AI Research Engineer with 5.2 yrs; skill score 48; strong AI profile
+CAND_0044222,30,0.256506,AI Engineer with 7.7 yrs; skill score 52; strong AI profile
+CAND_0011125,31,0.241636,Junior ML Engineer with 6.6 yrs; skill score 50; strong AI profile
+CAND_0011263,32,0.241636,ML Engineer with 5.1 yrs; skill score 50; strong AI profile
+CAND_0054100,33,0.241636,Junior ML Engineer with 6.0 yrs; skill score 50; strong AI profile
+CAND_0055905,34,0.241636,Senior Machine Learning Engineer with 8.1 yrs; skill score 44; strong AI profile
+CAND_0092255,35,0.223048,ML Engineer with 5.2 yrs; skill score 49; strong AI profile
+CAND_0008239,36,0.219331,AI Engineer with 4.0 yrs; skill score 58; strong AI profile
+CAND_0010685,37,0.219331,NLP Engineer with 6.7 yrs; skill score 53; strong AI profile
+CAND_0070202,38,0.219331,Machine Learning Engineer with 5.1 yrs; skill score 47; strong AI profile
+CAND_0044855,39,0.204461,Senior Data Scientist with 6.6 yrs; skill score 54; strong AI profile
+CAND_0053591,40,0.200743,AI Engineer with 5.3 yrs; skill score 49; strong AI profile
+CAND_0013536,41,0.163569,Applied ML Engineer with 14.1 yrs; skill score 76; strong AI profile
+CAND_0068811,42,0.163569,Applied ML Engineer with 8.0 yrs; skill score 44; strong AI profile
+CAND_0076163,43,0.163569,NLP Engineer with 6.9 yrs; skill score 50; strong AI profile
+CAND_0033861,44,0.159851,Senior NLP Engineer with 8.0 yrs; skill score 48; strong AI profile
+CAND_0070398,45,0.144981,Machine Learning Engineer with 7.2 yrs; skill score 43; strong AI profile
+CAND_0016657,46,0.141264,AI Research Engineer with 5.3 yrs; skill score 41; strong AI profile
+CAND_0048660,47,0.130112,ML Engineer with 5.2 yrs; skill score 44; strong AI profile
+CAND_0060538,48,0.130112,ML Engineer with 5.2 yrs; skill score 44; strong AI profile
+CAND_0015528,49,0.126394,Applied ML Engineer with 7.4 yrs; skill score 42; strong AI profile
+CAND_0051630,50,0.126394,Machine Learning Engineer with 6.0 yrs; skill score 42; strong AI profile
+CAND_0058412,51,0.126394,Senior Software Engineer (ML) with 6.6 yrs; skill score 57; strong AI profile
+CAND_0068351,52,0.126394,Lead AI Engineer with 6.4 yrs; skill score 36; strong AI profile
+CAND_0078002,53,0.126394,Machine Learning Engineer with 6.3 yrs; skill score 42; strong AI profile
+CAND_0010541,54,0.122677,AI Research Engineer with 6.2 yrs; skill score 40; strong AI profile
+CAND_0051466,55,0.122677,AI Research Engineer with 5.3 yrs; skill score 40; strong AI profile
+CAND_0052706,56,0.122677,AI Research Engineer with 5.1 yrs; skill score 40; strong AI profile
+CAND_0018653,57,0.111524,ML Engineer with 6.5 yrs; skill score 43; strong AI profile
+CAND_0042008,58,0.111524,ML Engineer with 5.6 yrs; skill score 43; strong AI profile
+CAND_0067201,59,0.111524,ML Engineer with 6.0 yrs; skill score 43; strong AI profile
+CAND_0006567,60,0.107807,Senior AI Engineer with 7.9 yrs; skill score 32; strong AI profile
+CAND_0007412,61,0.107807,Applied ML Engineer with 7.4 yrs; skill score 41; strong AI profile
+CAND_0028287,62,0.107807,Data Scientist with 5.7 yrs; skill score 53; strong AI profile
+CAND_0013393,63,0.092937,ML Engineer with 5.3 yrs; skill score 42; strong AI profile
+CAND_0016801,64,0.092937,ML Engineer with 5.3 yrs; skill score 42; strong AI profile
+CAND_0065514,65,0.092937,ML Engineer with 6.6 yrs; skill score 42; strong AI profile
+CAND_0043228,66,0.089219,Applied ML Engineer with 6.8 yrs; skill score 40; strong AI profile
+CAND_0052335,67,0.089219,Applied ML Engineer with 6.4 yrs; skill score 40; strong AI profile
+CAND_0011687,68,0.085502,Senior NLP Engineer with 7.8 yrs; skill score 44; strong AI profile
+CAND_0032271,69,0.085502,AI Research Engineer with 6.6 yrs; skill score 38; strong AI profile
+CAND_0098780,70,0.085502,AI Research Engineer with 5.9 yrs; skill score 38; strong AI profile
+CAND_0013988,71,0.074349,Junior ML Engineer with 5.4 yrs; skill score 41; strong AI profile
+CAND_0044883,72,0.070632,AI Engineer with 6.3 yrs; skill score 42; strong AI profile
+CAND_0021836,73,0.055762,ML Engineer with 6.5 yrs; skill score 40; strong AI profile
+CAND_0028422,74,0.055762,Junior ML Engineer with 5.5 yrs; skill score 40; strong AI profile
+CAND_0032996,75,0.055762,Junior ML Engineer with 6.4 yrs; skill score 40; strong AI profile
+CAND_0040178,76,0.055762,ML Engineer with 5.0 yrs; skill score 40; strong AI profile
+CAND_0065450,77,0.055762,ML Engineer with 4.0 yrs; skill score 48; strong AI profile
+CAND_0069232,78,0.055762,ML Engineer with 6.3 yrs; skill score 40; strong AI profile
+CAND_0062247,79,0.052045,AI Engineer with 7.3 yrs; skill score 41; strong AI profile
+CAND_0089552,80,0.052045,Machine Learning Engineer with 6.0 yrs; skill score 38; strong AI profile
+CAND_0091254,81,0.048327,AI Research Engineer with 5.2 yrs; skill score 36; strong AI profile
+CAND_0061819,82,0.037175,Junior ML Engineer with 5.0 yrs; skill score 39; strong AI profile
+CAND_0077337,83,0.033457,Staff Machine Learning Engineer with 7.0 yrs; skill score 31; strong AI profile
+CAND_0002770,84,0.02974,AI Research Engineer with 5.7 yrs; skill score 35; strong AI profile
+CAND_0004131,85,0.018587,Junior ML Engineer with 6.8 yrs; skill score 38; strong AI profile
+CAND_0038368,86,0.018587,ML Engineer with 5.4 yrs; skill score 38; strong AI profile
+CAND_0046525,87,0.018587,Senior Machine Learning Engineer with 6.1 yrs; skill score 32; strong AI profile
+CAND_0049615,88,0.018587,ML Engineer with 5.1 yrs; skill score 38; strong AI profile
+CAND_0091745,89,0.018587,Junior ML Engineer with 5.9 yrs; skill score 38; strong AI profile
+CAND_0095213,90,0.018587,ML Engineer with 5.1 yrs; skill score 38; strong AI profile
+CAND_0006557,91,0.01487,NLP Engineer with 7.9 yrs; skill score 42; strong AI profile
+CAND_0020877,92,0.01487,Applied ML Engineer with 5.1 yrs; skill score 36; strong AI profile
+CAND_0050876,93,0.01487,Applied ML Engineer with 6.0 yrs; skill score 36; strong AI profile
+CAND_0094056,94,0.01487,NLP Engineer with 5.9 yrs; skill score 42; strong AI profile
+CAND_0075491,95,0.011152,AI Research Engineer with 6.0 yrs; skill score 34; strong AI profile
+CAND_0076412,96,0.011152,AI Research Engineer with 5.8 yrs; skill score 34; strong AI profile
+CAND_0092278,97,0.011152,Senior NLP Engineer with 6.8 yrs; skill score 40; strong AI profile
+CAND_0002120,98,0.0,ML Engineer with 6.5 yrs; skill score 37; strong AI profile
+CAND_0005649,99,0.0,Senior Data Scientist with 7.4 yrs; skill score 43; strong AI profile
+CAND_0047721,100,0.0,Senior Data Scientist with 7.0 yrs; skill score 43; strong AI profile
